@@ -1,5 +1,13 @@
 const contacts = [
   {
+    id: 0,
+    name: "S. McDaniel",
+    imgURL:
+      "https://media-exp1.licdn.com/dms/image/C4E03AQFpO5muOOHGQA/profile-displayphoto-shrink_200_200/0/1577374845108?e=1648080000&v=beta&t=PuxWlqxqnJMznvLGPUI7IPXWGVZ4G-CAcSNY2FuAQi0",
+    phone: "+1858 555 1234",
+    email: "smcdaniel@email.com"
+  },
+  {
     id: 1,
     name: "Beyonce",
     imgURL:
